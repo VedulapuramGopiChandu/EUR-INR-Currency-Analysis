@@ -30,6 +30,7 @@ The EUR-INR Analysis App is a web application built using Streamlit that allows 
 ### 1. Clone this repository:
    
    git clone https://github.com/VedulapuramGopiChandu/EUR-INR-Currency-Analysis.git
+   
    cd EUR-INR-Currency-Analysis
 
    
