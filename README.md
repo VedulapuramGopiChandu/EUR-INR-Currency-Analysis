@@ -47,7 +47,7 @@ streamlit run app.py
 ### 4.Open your web browser and go to http://localhost:8501 to access the app.
 
 Usage
-Enter a stock symbol (e.g., EURINR=X) in the input box.
+Enter a stock symbol (e.g., EURINR=X,EURUSD=X, USDINR=X) in the input box.
 Click the "Analyze" button to fetch data and generate analysis.
 View the technical indicators and trading signals displayed on the screen.
 
